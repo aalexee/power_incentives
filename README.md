@@ -1,1 +1,3 @@
 # power_incentives
+
+This repository contains the R code to reproduce the results from my paper "The Power of Incentives." The folder "r_code" contains two files: "dp.R" and "hl.R". File "dp.R" reproduces the results from Section "3.1 Contiuous Case" of the paper and is based on [DellaVigna & Pope (2018)](https://academic.oup.com/restud/article-abstract/85/2/1029/3861288). File "hl.R" reproduces the results from Section "3.2 Discrete Case" of the paper and is based on [Holt & Laury (2002)](https://www.aeaweb.org/articles?id=10.1257/000282802762024700).
